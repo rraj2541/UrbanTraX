@@ -1,0 +1,1229 @@
+{
+  "buses": {
+    "12": {
+      "destination": "Jambuva",
+      "origin": "Janmahal",
+      "route_number": "12",
+      "schedule": [
+        {
+          "arrival_jambuva": "7:10 AM",
+          "departure_janmahal": "6:30 AM"
+        },
+        {
+          "arrival_jambuva": "1:05 PM",
+          "departure_janmahal": "12:25 PM"
+        }
+      ],
+      "via": [
+        "Jail Road",
+        "Kirtishambh",
+        "Manjalpur Naka",
+        "Tulsidham",
+        "Akashwani",
+        "Sushen",
+        "Makarpura",
+        "Maneja Crossing"
+      ]
+    },
+    "14": {
+      "destination": "Maneja",
+      "origin": "Janmahal",
+      "route_number": "14",
+      "schedule": [
+        {
+          "arrival_maneja": "6:20 AM",
+          "departure_janmahal": "5:40 AM"
+        },
+        {
+          "arrival_maneja": "6:45 AM",
+          "departure_janmahal": "6:05 AM"
+        },
+        {
+          "arrival_maneja": "7:10 AM",
+          "departure_janmahal": "6:30 AM"
+        },
+        {
+          "arrival_maneja": "7:45 AM",
+          "departure_janmahal": "7:05 AM"
+        },
+        {
+          "arrival_maneja": "8:20 AM",
+          "departure_janmahal": "7:40 AM"
+        },
+        {
+          "arrival_maneja": "8:40 AM",
+          "departure_janmahal": "8:00 AM"
+        },
+        {
+          "arrival_maneja": "9:05 AM",
+          "departure_janmahal": "8:25 AM"
+        },
+        {
+          "arrival_maneja": "9:25 AM",
+          "departure_janmahal": "8:45 AM"
+        },
+        {
+          "arrival_maneja": "9:55 AM",
+          "departure_janmahal": "9:15 AM"
+        },
+        {
+          "arrival_maneja": "10:10 AM",
+          "departure_janmahal": "9:30 AM"
+        },
+        {
+          "arrival_maneja": "10:25 AM",
+          "departure_janmahal": "9:45 AM"
+        },
+        {
+          "arrival_maneja": "10:45 AM",
+          "departure_janmahal": "10:05 AM"
+        },
+        {
+          "arrival_maneja": "11:00 AM",
+          "departure_janmahal": "10:20 AM"
+        },
+        {
+          "arrival_maneja": "11:30 AM",
+          "departure_janmahal": "10:50 AM"
+        },
+        {
+          "arrival_maneja": "12:05 PM",
+          "departure_janmahal": "11:25 AM"
+        },
+        {
+          "arrival_maneja": "12:25 PM",
+          "departure_janmahal": "11:45 AM"
+        },
+        {
+          "arrival_maneja": "12:40 PM",
+          "departure_janmahal": "12:00 PM"
+        },
+        {
+          "arrival_maneja": "1:15 PM",
+          "departure_janmahal": "12:35 PM"
+        },
+        {
+          "arrival_maneja": "1:45 PM",
+          "departure_janmahal": "1:05 PM"
+        },
+        {
+          "arrival_maneja": "2:10 PM",
+          "departure_janmahal": "1:30 PM"
+        },
+        {
+          "arrival_maneja": "2:20 PM",
+          "departure_janmahal": "1:40 PM"
+        },
+        {
+          "arrival_maneja": "2:40 PM",
+          "departure_janmahal": "2:00 PM"
+        },
+        {
+          "arrival_maneja": "3:00 PM",
+          "departure_janmahal": "2:20 PM"
+        },
+        {
+          "arrival_maneja": "3:20 PM",
+          "departure_janmahal": "2:40 PM"
+        },
+        {
+          "arrival_maneja": "3:40 PM",
+          "departure_janmahal": "3:00 PM"
+        },
+        {
+          "arrival_maneja": "4:00 PM",
+          "departure_janmahal": "3:20 PM"
+        },
+        {
+          "arrival_maneja": "4:20 PM",
+          "departure_janmahal": "3:40 PM"
+        },
+        {
+          "arrival_maneja": "4:40 PM",
+          "departure_janmahal": "4:00 PM"
+        },
+        {
+          "arrival_maneja": "5:00 PM",
+          "departure_janmahal": "4:20 PM"
+        },
+        {
+          "arrival_maneja": "5:20 PM",
+          "departure_janmahal": "4:40 PM"
+        },
+        {
+          "arrival_maneja": "5:40 PM",
+          "departure_janmahal": "5:00 PM"
+        },
+        {
+          "arrival_maneja": "6:20 PM",
+          "departure_janmahal": "5:40 PM"
+        },
+        {
+          "arrival_maneja": "6:40 PM",
+          "departure_janmahal": "6:00 PM"
+        },
+        {
+          "arrival_maneja": "7:20 PM",
+          "departure_janmahal": "6:40 PM"
+        },
+        {
+          "arrival_maneja": "7:40 PM",
+          "departure_janmahal": "7:00 PM"
+        },
+        {
+          "arrival_maneja": "8:20 PM",
+          "departure_janmahal": "7:40 PM"
+        },
+        {
+          "arrival_maneja": "9:00 PM",
+          "departure_janmahal": "8:20 PM"
+        },
+        {
+          "arrival_maneja": "9:20 PM",
+          "departure_janmahal": "8:40 PM"
+        },
+        {
+          "arrival_maneja": "9: 40 PM",
+          "departure_janmahal": "9:00 PM"
+        }
+      ],
+      "via": [
+        "Jail Road",
+        "Kirtishambh",
+        "Manjalpur Naka",
+        "Tulsidham",
+        "Akashwani",
+        "Sushen",
+        "Makarpura",
+        "Maneja Crossing"
+      ]
+    },
+    "15": {
+      "destination": "Harni Bypass",
+      "origin": "Station",
+      "route_number": "15",
+      "schedule": [
+        {
+          "arrival_harni": "6:10 AM",
+          "departure_station": "5:30 AM"
+        },
+        {
+          "arrival_harni": "7:40 AM",
+          "departure_station": "7:00 AM"
+        },
+        {
+          "arrival_harni": "9:00 AM",
+          "departure_station": "8:20 AM"
+        },
+        {
+          "arrival_harni": "10:20 AM",
+          "departure_station": "9:40 AM"
+        },
+        {
+          "arrival_harni": "12:20 PM",
+          "departure_station": "11:40 AM"
+        },
+        {
+          "arrival_harni": "12:40 PM",
+          "departure_station": "12:00 PM"
+        },
+        {
+          "arrival_harni": "1:40 PM",
+          "departure_station": "1:00 PM"
+        },
+        {
+          "arrival_harni": "2:20 PM",
+          "departure_station": "1:40 PM"
+        },
+        {
+          "arrival_harni": "3:40 PM",
+          "departure_station": "3:00 PM"
+        },
+        {
+          "arrival_harni": "4:00 PM",
+          "departure_station": "3:20 PM"
+        },
+        {
+          "arrival_harni": "5:00 PM",
+          "departure_station": "4:20 PM"
+        },
+        {
+          "arrival_harni": "5:20 PM",
+          "departure_station": "4:40 PM"
+        },
+        {
+          "arrival_harni": "5:40 PM",
+          "departure_station": "5:00 PM"
+        },
+        {
+          "arrival_harni": "6:20 PM",
+          "departure_station": "5:40 PM"
+        },
+        {
+          "arrival_harni": "6:40 PM",
+          "departure_station": "6:00 PM"
+        },
+        {
+          "arrival_harni": "7:00 PM",
+          "departure_station": "6:20 PM"
+        },
+        {
+          "arrival_harni": "7:40 PM",
+          "departure_station": "7:00 PM"
+        },
+        {
+          "arrival_harni": "8:20 PM",
+          "departure_station": "7:40 PM"
+        },
+        {
+          "arrival_harni": "9:00 PM",
+          "departure_station": "8:20 PM"
+        },
+        {
+          "arrival_harni": "9:20 PM",
+          "departure_station": "8:40 PM"
+        },
+        {
+          "arrival_harni": "9:40 PM",
+          "departure_station": "9:00 PM"
+        }
+      ],
+      "via": [
+        "Hospital",
+        "Salatwada",
+        "Nagrwada",
+        "Bhutdizpa",
+        "Fatepura"
+      ]
+    },
+    "16": {
+      "destination": "Radhe Residency",
+      "origin": "Janmahal",
+      "route_number": "16",
+      "schedule": [
+        {
+          "arrival_radhe": "7:50 AM",
+          "departure_janmahal": "7:10 AM"
+        },
+        {
+          "arrival_radhe": "9:30 AM",
+          "departure_janmahal": "8:50 AM"
+        },
+        {
+          "arrival_radhe": "10:20 AM",
+          "departure_janmahal": "9:40 AM"
+        },
+        {
+          "arrival_radhe": "11:10 AM",
+          "departure_janmahal": "10:30 AM"
+        },
+        {
+          "arrival_radhe": "12:50 PM",
+          "departure_janmahal": "12:10 PM"
+        },
+        {
+          "arrival_radhe": "1:40 PM",
+          "departure_janmahal": "1:00 PM"
+        },
+        {
+          "arrival_radhe": "2:30 PM",
+          "departure_janmahal": "1:50 PM"
+        },
+        {
+          "arrival_radhe": "3:20 PM",
+          "departure_janmahal": "2:40 PM"
+        },
+        {
+          "arrival_radhe": "5:00 PM",
+          "departure_janmahal": "4:20 PM"
+        },
+        {
+          "arrival_radhe": "6:40 PM",
+          "departure_janmahal": "6:00 PM"
+        },
+        {
+          "arrival_radhe": "8:20 PM",
+          "departure_janmahal": "7:40 PM"
+        },
+        {
+          "arrival_radhe": "9:50 PM",
+          "departure_janmahal": "9:10 PM"
+        }
+      ],
+      "via": [
+        "Jail Road",
+        "Lalbag",
+        "Manjalpur Naka",
+        "Tulsidham",
+        "Marutidham",
+        "Sushen",
+        "Novino"
+      ]
+    },
+    "20": {
+      "destination": "Danteshwar",
+      "origin": "Janmahal",
+      "route_number": "20",
+      "schedule": [
+        {
+          "arrival_danteshwar": "6:50 AM",
+          "departure_janmahal": "6:05 AM"
+        },
+        {
+          "arrival_danteshwar": "7:15 AM",
+          "departure_janmahal": "6:30 AM"
+        },
+        {
+          "arrival_danteshwar": "7:55 AM",
+          "departure_janmahal": "7:10 AM"
+        },
+        {
+          "arrival_danteshwar": "8:25 AM",
+          "departure_janmahal": "7:40 AM"
+        },
+        {
+          "arrival_danteshwar": "8:45 AM",
+          "departure_janmahal": "8:00 AM"
+        },
+        {
+          "arrival_danteshwar": "9:30 AM",
+          "departure_janmahal": "8:45 AM"
+        },
+        {
+          "arrival_danteshwar": "9:55 AM",
+          "departure_janmahal": "9:10 AM"
+        },
+        {
+          "arrival_danteshwar": "10:15 AM",
+          "departure_janmahal": "9:30 AM"
+        },
+        {
+          "arrival_danteshwar": "11:05 AM",
+          "departure_janmahal": "10:20 AM"
+        },
+        {
+          "arrival_danteshwar": "11:35 AM",
+          "departure_janmahal": "10:50 AM"
+        },
+        {
+          "arrival_danteshwar": "11:55 AM",
+          "departure_janmahal": "11:10 AM"
+        },
+        {
+          "arrival_danteshwar": "12:45 PM",
+          "departure_janmahal": "12:00 PM"
+        },
+        {
+          "arrival_danteshwar": "1:15 PM",
+          "departure_janmahal": "12:30 PM"
+        },
+        {
+          "arrival_danteshwar": "1:35 PM",
+          "departure_janmahal": "12:50 PM"
+        }
+      ],
+      "via": [
+        "Tower",
+        "Nayamandir",
+        "Mandvi",
+        "Chakhadi",
+        "Hora",
+        "D.R.M."
+      ]
+    },
+    "21": {
+      "destination": "Rameshwar",
+      "origin": "Janmahal",
+      "route_number": "21",
+      "schedule": [
+        {
+          "arrival_rameshwar": "9:20 AM",
+          "departure_janmahal": "8:35 AM"
+        },
+        {
+          "arrival_rameshwar": "10:40 AM",
+          "departure_janmahal": "9:55 AM"
+        },
+        {
+          "arrival_rameshwar": "12:00 PM",
+          "departure_janmahal": "11:15 AM"
+        },
+        {
+          "arrival_rameshwar": "1:20 PM",
+          "departure_janmahal": "12:35 PM"
+        }
+      ],
+      "via": [
+        "Racecourse",
+        "Amrakunj",
+        "Harinagar",
+        "Amin Party Plot",
+        "Jhansi ki Rani Circle"
+      ]
+    },
+    "25": {
+      "destination": "Panchvati (Udera Circle)",
+      "origin": "Janmahal",
+      "route_number": "25",
+      "schedule": [
+        {
+          "arrival_panchvati": "6:35 AM",
+          "departure_janmahal": "5:50 AM"
+        },
+        {
+          "arrival_panchvati": "9:00 AM",
+          "departure_janmahal": "8:15 AM"
+        },
+        {
+          "arrival_panchvati": "9:50 AM",
+          "departure_janmahal": "9:05 AM"
+        },
+        {
+          "arrival_panchvati": "11:30 AM",
+          "departure_janmahal": "10:45 AM"
+        },
+        {
+          "arrival_panchvati": "1:10 PM",
+          "departure_janmahal": "12:25 PM"
+        }
+      ],
+      "via": [
+        "Racecourse",
+        "Genda Circle",
+        "Gorwa",
+        "Bapu's Dargah",
+        "Sahyog"
+      ]
+    },
+    "26": {
+      "destination": "Sunpharma (Tandalja)",
+      "origin": "Janmahal",
+      "route_number": "26",
+      "schedule": [
+        {
+          "arrival_sunpharma": "6:40 AM",
+          "departure_janmahal": "6:00 AM"
+        },
+        {
+          "arrival_sunpharma": "8:00 AM",
+          "departure_janmahal": "7:20 AM"
+        },
+        {
+          "arrival_sunpharma": "9:20 AM",
+          "departure_janmahal": "8:40 AM"
+        },
+        {
+          "arrival_sunpharma": "10:40 AM",
+          "departure_janmahal": "10:00 AM"
+        },
+        {
+          "arrival_sunpharma": "12:00 PM",
+          "departure_janmahal": "11:20 AM"
+        },
+        {
+          "arrival_sunpharma": "1:20 PM",
+          "departure_janmahal": "12:40 PM"
+        },
+        {
+          "arrival_sunpharma": "2:40 PM",
+          "departure_janmahal": "2:00 PM"
+        },
+        {
+          "arrival_sunpharma": "4:00 PM",
+          "departure_janmahal": "3:20 PM"
+        }
+      ],
+      "via": [
+        "Racecourse",
+        "Chakli Circle",
+        "Manisha Chokdi",
+        "Gulab Vatika",
+        "Patrakar"
+      ]
+    },
+    "27": {
+      "destination": "Gokulnagar (Gotri)",
+      "origin": "Janmahal",
+      "route_number": "27",
+      "schedule": [
+        {
+          "arrival_gokulnagar": "6:20 AM",
+          "departure_janmahal": "5:40 AM"
+        },
+        {
+          "arrival_gokulnagar": "7:40 AM",
+          "departure_janmahal": "7:00 AM"
+        },
+        {
+          "arrival_gokulnagar": "9:00 AM",
+          "departure_janmahal": "8:20 AM"
+        },
+        {
+          "arrival_gokulnagar": "10:20 AM",
+          "departure_janmahal": "9:40 AM"
+        },
+        {
+          "arrival_gokulnagar": "11:40 AM",
+          "departure_janmahal": "11:00 AM"
+        },
+        {
+          "arrival_gokulnagar": "1:00 PM",
+          "departure_janmahal": "12:20 PM"
+        },
+        {
+          "arrival_gokulnagar": "2:20 PM",
+          "departure_janmahal": "1:40 PM"
+        },
+        {
+          "arrival_gokulnagar": "3:40 PM",
+          "departure_janmahal": "3:00 PM"
+        },
+        {
+          "arrival_gokulnagar": "5:00 PM",
+          "departure_janmahal": "4:20 PM"
+        },
+        {
+          "arrival_gokulnagar": "6:20 PM",
+          "departure_janmahal": "5:40 PM"
+        },
+        {
+          "arrival_gokulnagar": "7:40 PM",
+          "departure_janmahal": "7:00 PM"
+        },
+        {
+          "arrival_gokulnagar": "9:00 PM",
+          "departure_janmahal": "8:20 PM"
+        }
+      ],
+      "via": [
+        "Racecourse",
+        "Amrakunj",
+        "Harinagar",
+        "Yash Complex",
+        "Gotri"
+      ]
+    },
+    "30": {
+      "destination": "Lakshmipura (Akshar Apartment)",
+      "origin": "Janmahal",
+      "route_number": "30",
+      "schedule": [
+        {
+          "arrival_lakshmipura": "6:05 AM",
+          "departure_janmahal": "5:45 AM"
+        },
+        {
+          "arrival_lakshmipura": "6:45 AM",
+          "departure_janmahal": "6:25 AM"
+        },
+        {
+          "arrival_lakshmipura": "7:25 AM",
+          "departure_janmahal": "7:05 AM"
+        },
+        {
+          "arrival_lakshmipura": "8:05 AM",
+          "departure_janmahal": "7:45 AM"
+        },
+        {
+          "arrival_lakshmipura": "8:45 AM",
+          "departure_janmahal": "8:25 AM"
+        },
+        {
+          "arrival_lakshmipura": "9:25 AM",
+          "departure_janmahal": "9:05 AM"
+        },
+        {
+          "arrival_lakshmipura": "10:05 AM",
+          "departure_janmahal": "9:45 AM"
+        },
+        {
+          "arrival_lakshmipura": "10:45 AM",
+          "departure_janmahal": "10:25 AM"
+        },
+        {
+          "arrival_lakshmipura": "11:25 AM",
+          "departure_janmahal": "11:05 AM"
+        },
+        {
+          "arrival_lakshmipura": "12:05 PM",
+          "departure_janmahal": "11:45 AM"
+        },
+        {
+          "arrival_lakshmipura": "12:45 PM",
+          "departure_janmahal": "12:25 PM"
+        },
+        {
+          "arrival_lakshmipura": "1:25 PM",
+          "departure_janmahal": "1:05 PM"
+        },
+        {
+          "arrival_lakshmipura": "2:05 PM",
+          "departure_janmahal": "1:45 PM"
+        },
+        {
+          "arrival_lakshmipura": "2:45 PM",
+          "departure_janmahal": "2:25 PM"
+        },
+        {
+          "arrival_lakshmipura": "3:25 PM",
+          "departure_janmahal": "3:05 PM"
+        },
+        {
+          "arrival_lakshmipura": "4:05 PM",
+          "departure_janmahal": "3:45 PM"
+        },
+        {
+          "arrival_lakshmipura": "4:45 PM",
+          "departure_janmahal": "4:25 PM"
+        },
+        {
+          "arrival_lakshmipura": "5:25 PM",
+          "departure_janmahal": "5:05 PM"
+        },
+        {
+          "arrival_lakshmipura": "6:05 PM",
+          "departure_janmahal": "5:45 PM"
+        },
+        {
+          "arrival_lakshmipura": "6:45 PM",
+          "departure_janmahal": "6:25 PM"
+        },
+        {
+          "arrival_lakshmipura": "7:25 PM",
+          "departure_janmahal": "7:05 PM"
+        },
+        {
+          "arrival_lakshmipura": "8:05 PM",
+          "departure_janmahal": "7:45 PM"
+        },
+        {
+          "arrival_lakshmipura": "8:45 PM",
+          "departure_janmahal": "8:25 PM"
+        },
+        {
+          "arrival_lakshmipura": "9:25 PM",
+          "departure_janmahal": "9:05 PM"
+        },
+        {
+          "arrival_lakshmipura": "10:05 PM",
+          "departure_janmahal": "9:45 PM"
+        },
+        {
+          "arrival_lakshmipura": "10:45 PM",
+          "departure_janmahal": "10:25 PM"
+        },
+        {
+          "arrival_lakshmipura": "11:25 PM",
+          "departure_janmahal": "11:05 PM"
+        }
+      ],
+      "via": [
+        "Gorwa Workshop",
+        "Arunchal",
+        "Racecourse",
+        "Ellora Park",
+        "Jain Derasar",
+        "Janmahal"
+      ]
+    },
+    "31": {
+      "destination": "Bajwa",
+      "origin": "Janmahal",
+      "route_number": "31",
+      "schedule": [
+        {
+          "arrival_bajwa": "6:30 AM",
+          "departure_janmahal": "5:45 AM"
+        },
+        {
+          "arrival_bajwa": "6:50 AM",
+          "departure_janmahal": "6:05 AM"
+        },
+        {
+          "arrival_bajwa": "7:00 AM",
+          "departure_janmahal": "6:15 AM"
+        },
+        {
+          "arrival_bajwa": "7:15 AM",
+          "departure_janmahal": "6:30 AM"
+        },
+        {
+          "arrival_bajwa": "7:30 AM",
+          "departure_janmahal": "6:45 AM"
+        },
+        {
+          "arrival_bajwa": "7:55 AM",
+          "departure_janmahal": "7:10 AM"
+        },
+        {
+          "arrival_bajwa": "8:25 AM",
+          "departure_janmahal": "7:40 AM"
+        },
+        {
+          "arrival_bajwa": "8:35 AM",
+          "departure_janmahal": "7:50 AM"
+        },
+        {
+          "arrival_bajwa": "8:45 AM",
+          "departure_janmahal": "8:00 AM"
+        },
+        {
+          "arrival_bajwa": "9:10 AM",
+          "departure_janmahal": "8:25 AM"
+        },
+        {
+          "arrival_bajwa": "9:30 AM",
+          "departure_janmahal": "8:45 AM"
+        },
+        {
+          "arrival_bajwa": "9:55 AM",
+          "departure_janmahal": "9:10 AM"
+        },
+        {
+          "arrival_bajwa": "10:05 AM",
+          "departure_janmahal": "9:20 AM"
+        },
+        {
+          "arrival_bajwa": "10:15 AM",
+          "departure_janmahal": "9:30 AM"
+        },
+        {
+          "arrival_bajwa": "10:45 AM",
+          "departure_janmahal": "10:00 AM"
+        },
+        {
+          "arrival_bajwa": "11:05 AM",
+          "departure_janmahal": "10:20 AM"
+        },
+        {
+          "arrival_bajwa": "11:35 AM",
+          "departure_janmahal": "10:50 AM"
+        },
+        {
+          "arrival_bajwa": "11:45 AM",
+          "departure_janmahal": "11:00 AM"
+        },
+        {
+          "arrival_bajwa": "11:55 AM",
+          "departure_janmahal": "11:10 AM"
+        },
+        {
+          "arrival_bajwa": "12:15 PM",
+          "departure_janmahal": "11:30 AM"
+        },
+        {
+          "arrival_bajwa": "12:35 PM",
+          "departure_janmahal": "11:50 AM"
+        },
+        {
+          "arrival_bajwa": "1:15 PM",
+          "departure_janmahal": "12:30 PM"
+        },
+        {
+          "arrival_bajwa": "1:30 PM",
+          "departure_janmahal": "12:45 PM"
+        },
+        {
+          "arrival_bajwa": "1:45 PM",
+          "departure_janmahal": "1:00 PM"
+        },
+        {
+          "arrival_bajwa": "2:05 PM",
+          "departure_janmahal": "1:20 PM"
+        },
+        {
+          "arrival_bajwa": "2:25 PM",
+          "departure_janmahal": "1:40 PM"
+        },
+        {
+          "arrival_bajwa": "2:55 PM",
+          "departure_janmahal": "2:10 PM"
+        },
+        {
+          "arrival_bajwa": "3:05 PM",
+          "departure_janmahal": "2:20 PM"
+        },
+        {
+          "arrival_bajwa": "3:15 PM",
+          "departure_janmahal": "2:30 PM"
+        },
+        {
+          "arrival_bajwa": "3:45 PM",
+          "departure_janmahal": "3:00 PM"
+        },
+        {
+          "arrival_bajwa": "4:05 PM",
+          "departure_janmahal": "3:20 PM"
+        },
+        {
+          "arrival_bajwa": "4:25 PM",
+          "departure_janmahal": "3:40 PM"
+        },
+        {
+          "arrival_bajwa": "4:45 PM",
+          "departure_janmahal": "4:00 PM"
+        },
+        {
+          "arrival_bajwa": "5:05 PM",
+          "departure_janmahal": "4:20 PM"
+        },
+        {
+          "arrival_bajwa": "5:25 PM",
+          "departure_janmahal": "4:40 PM"
+        },
+        {
+          "arrival_bajwa": "5:45 PM",
+          "departure_janmahal": "5:00 PM"
+        },
+        {
+          "arrival_bajwa": "6:25 PM",
+          "departure_janmahal": "5:40 PM"
+        },
+        {
+          "arrival_bajwa": "6:45 PM",
+          "departure_janmahal": "6:00 PM"
+        },
+        {
+          "arrival_bajwa": "7:05 PM",
+          "departure_janmahal": "6:20 PM"
+        },
+        {
+          "arrival_bajwa": "7:25 PM",
+          "departure_janmahal": "6:40 PM"
+        },
+        {
+          "arrival_bajwa": "7:45 PM",
+          "departure_janmahal": "7:00 PM"
+        },
+        {
+          "arrival_bajwa": "8:25 PM",
+          "departure_janmahal": "7:40 PM"
+        },
+        {
+          "arrival_bajwa": "8:45 PM",
+          "departure_janmahal": "8:00 PM"
+        },
+        {
+          "arrival_bajwa": "9:05 PM",
+          "departure_janmahal": "8:20 PM"
+        },
+        {
+          "arrival_bajwa": "9:25 PM",
+          "departure_janmahal": "8:40 PM"
+        },
+        {
+          "arrival_bajwa": "9:45 PM",
+          "departure_janmahal": "9:00 PM"
+        },
+        {
+          "arrival_bajwa": "10:05 PM",
+          "departure_janmahal": "9:20 PM"
+        },
+        {
+          "arrival_bajwa": "10:25 PM",
+          "departure_janmahal": "9:40 PM"
+        },
+        {
+          "arrival_bajwa": "10:45 PM",
+          "departure_janmahal": "10:00 PM"
+        },
+        {
+          "arrival_bajwa": "11:05 PM",
+          "departure_janmahal": "10:20 PM"
+        },
+        {
+          "arrival_bajwa": "11:25 PM",
+          "departure_janmahal": "10:40 PM"
+        },
+        {
+          "arrival_bajwa": "11:45 PM",
+          "departure_janmahal": "11:00 PM"
+        }
+      ],
+      "via": [
+        "Racecourse",
+        "Genda Circle",
+        "Gorwa",
+        "Bapu's Dargah",
+        "Madhunagar",
+        "Karodia",
+        "Bajwa",
+        "Karchiya"
+      ]
+    },
+    "17-17A": {
+      "destination": "Makarpura Gam",
+      "origin": "Janmahal",
+      "route_number": "17/17A",
+      "schedule": [
+        {
+          "arrival_makarpura": "6:25 AM",
+          "departure_janmahal": "5:45 AM"
+        },
+        {
+          "arrival_makarpura": "7:05 AM",
+          "departure_janmahal": "6:25 AM"
+        },
+        {
+          "arrival_makarpura": "7:50 AM",
+          "departure_janmahal": "7:10 AM"
+        },
+        {
+          "arrival_makarpura": "8:40 AM",
+          "departure_janmahal": "8:00 AM"
+        },
+        {
+          "arrival_makarpura": "9:30 AM",
+          "departure_janmahal": "8:50 AM"
+        },
+        {
+          "arrival_makarpura": "10:00 AM",
+          "departure_janmahal": "9:20 AM"
+        },
+        {
+          "arrival_makarpura": "10:40 AM",
+          "departure_janmahal": "10:00 AM"
+        },
+        {
+          "arrival_makarpura": "11:10 AM",
+          "departure_janmahal": "10:30 AM"
+        },
+        {
+          "arrival_makarpura": "12:00 PM",
+          "departure_janmahal": "11:20 AM"
+        },
+        {
+          "arrival_makarpura": "12:50 PM",
+          "departure_janmahal": "12:10 PM"
+        },
+        {
+          "arrival_makarpura": "1:40 PM",
+          "departure_janmahal": "1:00 PM"
+        },
+        {
+          "arrival_makarpura": "2:30 PM",
+          "departure_janmahal": "1:50 PM"
+        },
+        {
+          "arrival_makarpura": "3:20 PM",
+          "departure_janmahal": "2:40 PM"
+        },
+        {
+          "arrival_makarpura": "5:00 PM",
+          "departure_janmahal": "4:20 PM"
+        },
+        {
+          "arrival_makarpura": "5:40 PM",
+          "departure_janmahal": "5:00 PM"
+        },
+        {
+          "arrival_makarpura": "6:20 PM",
+          "departure_janmahal": "5:40 PM"
+        },
+        {
+          "arrival_makarpura": "6:40 PM",
+          "departure_janmahal": "6:00 PM"
+        },
+        {
+          "arrival_makarpura": "7:20 PM",
+          "departure_janmahal": "6:40 PM"
+        },
+        {
+          "arrival_makarpura": "7:40 PM",
+          "departure_janmahal": "7:00 PM"
+        },
+        {
+          "arrival_makarpura": "8:20 PM",
+          "departure_janmahal": "7:40 PM"
+        },
+        {
+          "arrival_makarpura": "9:00 PM",
+          "departure_janmahal": "8:20 PM"
+        },
+        {
+          "arrival_makarpura": "9:20 PM",
+          "departure_janmahal": "8:40 PM"
+        },
+        {
+          "arrival_makarpura": "9:40 PM",
+          "departure_janmahal": "9:00 PM"
+        }
+      ],
+      "via": [
+        "Tower",
+        "Nayamandir",
+        "Mandvi",
+        "Chokhandi",
+        "Pratapnagar Bridge",
+        "Deri Teen Rasta",
+        "Sushen",
+        "Makarpura"
+      ]
+    },
+    "25A": {
+      "destination": "Narmdeshwar Nagar",
+      "origin": "Janmahal",
+      "route_number": "25A",
+      "schedule": [
+        {
+          "arrival_narmdeshwar": "6:50 AM",
+          "departure_janmahal": "6:10 AM"
+        },
+        {
+          "arrival_narmdeshwar": "8:10 AM",
+          "departure_janmahal": "7:30 AM"
+        },
+        {
+          "arrival_narmdeshwar": "9:30 AM",
+          "departure_janmahal": "8:50 AM"
+        },
+        {
+          "arrival_narmdeshwar": "10:50 AM",
+          "departure_janmahal": "10:10 AM"
+        },
+        {
+          "arrival_narmdeshwar": "12:10 PM",
+          "departure_janmahal": "11:30 AM"
+        },
+        {
+          "arrival_narmdeshwar": "1:30 PM",
+          "departure_janmahal": "12:50 PM"
+        }
+      ],
+      "via": [
+        "Racecourse",
+        "Ellora Park",
+        "Ganga Jamna",
+        "Dasama Chokdi",
+        "Sahyog",
+        "Panchvati"
+      ]
+    },
+    "27A": {
+      "destination": "Sevasi",
+      "origin": "Janmahal",
+      "route_number": "27A",
+      "schedule": [
+        {
+          "arrival_sevasi": "6:40 AM",
+          "departure_janmahal": "6:00 AM"
+        },
+        {
+          "arrival_sevasi": "8:00 AM",
+          "departure_janmahal": "7:20 AM"
+        },
+        {
+          "arrival_sevasi": "9:20 AM",
+          "departure_janmahal": "8:40 AM"
+        },
+        {
+          "arrival_sevasi": "10:40 AM",
+          "departure_janmahal": "10:00 AM"
+        },
+        {
+          "arrival_sevasi": "12:00 PM",
+          "departure_janmahal": "11:20 AM"
+        },
+        {
+          "arrival_sevasi": "1:20 PM",
+          "departure_janmahal": "12:40 PM"
+        },
+        {
+          "arrival_sevasi": "2:40 PM",
+          "departure_janmahal": "2:00 PM"
+        },
+        {
+          "arrival_sevasi": "4:00 PM",
+          "departure_janmahal": "3:20 PM"
+        },
+        {
+          "arrival_sevasi": "5:20 PM",
+          "departure_janmahal": "4:40 PM"
+        },
+        {
+          "arrival_sevasi": "6:40 PM",
+          "departure_janmahal": "6:00 PM"
+        },
+        {
+          "arrival_sevasi": "8:00 PM",
+          "departure_janmahal": "7:20 PM"
+        },
+        {
+          "arrival_sevasi": "9:20 PM",
+          "departure_janmahal": "8:40 PM"
+        }
+      ],
+      "via": [
+        "Racecourse",
+        "Chakli Circle",
+        "Natubhai Circle",
+        "Harinagar",
+        "Yash Complex",
+        "Gotri Water Tank"
+      ]
+    },
+    "27B": {
+      "destination": "Raliyatba",
+      "origin": "Janmahal",
+      "route_number": "27B",
+      "schedule": [
+        {
+          "arrival_raliyatba": "7:20 AM",
+          "departure_janmahal": "6:40 AM"
+        },
+        {
+          "arrival_raliyatba": "8:40 AM",
+          "departure_janmahal": "8:00 AM"
+        },
+        {
+          "arrival_raliyatba": "10:00 AM",
+          "departure_janmahal": "9:20 AM"
+        },
+        {
+          "arrival_raliyatba": "11:20 AM",
+          "departure_janmahal": "10:40 AM"
+        },
+        {
+          "arrival_raliyatba": "12:40 PM",
+          "departure_janmahal": "12:00 PM"
+        },
+        {
+          "arrival_raliyatba": "2:00 PM",
+          "departure_janmahal": "1:20 PM"
+        },
+        {
+          "arrival_raliyatba": "3:20 PM",
+          "departure_janmahal": "2:40 PM"
+        },
+        {
+          "arrival_raliyatba": "4:40 PM",
+          "departure_janmahal": "4:00 PM"
+        },
+        {
+          "arrival_raliyatba": "6:00 PM",
+          "departure_janmahal": "5:20 PM"
+        },
+        {
+          "arrival_raliyatba": "7:20 PM",
+          "departure_janmahal": "6:40 PM"
+        },
+        {
+          "arrival_raliyatba": "8:40 PM",
+          "departure_janmahal": "8:00 PM"
+        },
+        {
+          "arrival_raliyatba": "10:00 PM",
+          "departure_janmahal": "9:20 PM"
+        }
+      ],
+      "via": [
+        "Racecourse",
+        "Chakli Circle",
+        "Natubhai Circle",
+        "Harinagar",
+        "Yash Complex",
+        "Vuda's House"
+      ]
+    }
+  }
+}
